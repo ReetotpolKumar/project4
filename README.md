@@ -1,5 +1,5 @@
-# project4
-Amazon Clone
+
+# Amazon Clone
 Project Assign by FunctionUP
 My mentor was Ashis Gupta
 
